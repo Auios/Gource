@@ -1,0 +1,2 @@
+CD C:\users\%USERNAME%\documents\github\KeyLoggerNet_Server
+gource -f -1920x1080 -c 1 --disable-auto-rotate --font-size 26 --hide mouse,progress --highlight-users --multi-sampling --auto-skip-seconds 1 --seconds-per-day 0.5
